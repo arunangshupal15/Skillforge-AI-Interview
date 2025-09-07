@@ -118,12 +118,14 @@ const Agent = ({
     setCallStatus(CallStatus.CONNECTING);
 
     if (type === "generate") {
-      await vapi.start(
+      vapi.start(
         undefined,
         {
-          variableValues: {
-            username: userName,
-            userid: userId,
+          assistantOverrides: {
+            variableValues: {
+              username: userName,
+              userid: userId,
+            }
           },
           clientMessages: ["transcript"],
           serverMessages: [],

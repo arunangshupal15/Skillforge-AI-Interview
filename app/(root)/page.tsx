@@ -44,7 +44,7 @@ async function Home() {
         />
       </section>
 
-      <section className="flex flex-col gap-6 mt-8">
+      {/* <section className="flex flex-col gap-6 mt-8">
         <h2>Your Interviews</h2>
 
         <div className="interviews-section">
@@ -64,7 +64,7 @@ async function Home() {
             <p>You haven&apos;t taken any interviews yet</p>
           )}
         </div>
-      </section>
+      </section> */}
 
       <section className="flex flex-col gap-6 mt-8">
         <h2>Take Interviews</h2>
