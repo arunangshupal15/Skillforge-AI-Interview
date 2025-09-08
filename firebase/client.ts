@@ -33,17 +33,7 @@ export const db = getFirestore(app);
 // // TODO: Add SDKs for Firebase products that you want to use
 // // https://firebase.google.com/docs/web/setup#available-libraries
 
-// // Your web app's Firebase configuration
-// // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-// const firebaseConfig = {
-//   apiKey: "AIzaSyAjOHjzLE_UM3wsCxUjvT94AS7mLSCiCTA",
-//   authDomain: "prepwise-57266.firebaseapp.com",
-//   projectId: "prepwise-57266",
-//   storageBucket: "prepwise-57266.firebasestorage.app",
-//   messagingSenderId: "574547172851",
-//   appId: "1:574547172851:web:8de4bccda8867b315e0686",
-//   measurementId: "G-4H3JK4LPLS"
-// };
+
 
 // // Initialize Firebase
 // const app = initializeApp(firebaseConfig);
