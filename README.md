@@ -34,7 +34,7 @@ AI Mock Interviews is a tool designed to help users practice and prepare for tec
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ai_mock_interviews.git
+   git clone https://github.com/arunangshupal15/Skillforge-AI-Interview.git
    cd ai_mock_interviews-main
    ```
 
