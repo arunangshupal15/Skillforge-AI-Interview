@@ -50,9 +50,9 @@ AI Mock Interviews is a tool designed to help users practice and prepare for tec
 Start the development server:
 
 ```bash
-npm start
+npm run dev
 # or
-yarn start
+yarn dev 
 ```
 
 The app will be available at [http://localhost:3000](http://localhost:3000).
